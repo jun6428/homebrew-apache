@@ -1,6 +1,6 @@
 require 'formula'
 
-class ModWsgi < Formula
+class ModWsgiPy3 < Formula
   homepage 'http://code.google.com/p/modwsgi/'
   url 'http://modwsgi.googlecode.com/files/mod_wsgi-3.4.tar.gz'
   sha1 '92ebc48e60ab658a984f97fd40cb71e0ae895469'
